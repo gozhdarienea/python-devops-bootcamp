@@ -1,6 +1,6 @@
 # DockerHub 
 
-docker pull gozhdaeg/python-devops:1.0
+docker pull gozhdaeg/devopsbootcamp:1.0
 
 # Follow the steps below to run the container
 #check docker images 
